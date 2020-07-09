@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Iwan👋
+
+- 🌱 I’m currently learning...I work in IT so when aren't we learning? 🙂
 
 <!--
 **iwantaljaard/iwantaljaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
